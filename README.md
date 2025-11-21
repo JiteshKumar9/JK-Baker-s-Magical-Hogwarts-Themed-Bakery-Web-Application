@@ -188,3 +188,19 @@ Hogwarts dark-academia theme
 - Inspired by the Wizarding World of Harry Potter and festive holiday vibes.
 - All magical bakery descriptions, animations, and UI themes crafted uniquely for JK Baker’s.
 - This entire web application was created through Vibe Coding and developed using the YouWare AI tool, blending creativity with intelligent assistance to bring the magical concept to life.
+
+# ScreenShots
+<img width="1910" height="874" alt="image" src="https://github.com/user-attachments/assets/73ca21c3-7c6b-41bd-8902-fe5f37779b46" /> 
+
+<img width="1910" height="869" alt="image" src="https://github.com/user-attachments/assets/803d0e01-5bee-4966-bf67-40b535268c27" /> 
+
+<img width="1914" height="878" alt="image" src="https://github.com/user-attachments/assets/403092ba-28f1-494d-946a-9d9df8f6e9cf" /> 
+
+<img width="1918" height="879" alt="image" src="https://github.com/user-attachments/assets/d836b9d3-989b-437d-82f2-efb5c0da3bc5" /> 
+
+<img width="1919" height="882" alt="image" src="https://github.com/user-attachments/assets/6f8623e9-5f21-4bc3-a5f8-a041df23d719" />
+
+
+
+
+
